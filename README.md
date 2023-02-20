@@ -4,4 +4,4 @@ A simple digital clock with an alarm feature
 
 #### Snapshot
 
-![digital clock](snapshot.png)
+![digital clock](./assets/snapshot.png)
